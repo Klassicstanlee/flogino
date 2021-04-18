@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
+    <title>::Floginos</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='./main.css'>
     <script src='./index.html'></script>
@@ -28,11 +28,11 @@
 
                 <form action="" id="form">
                     <div class="input_container">
-                        <input type="button" value="Continue with Gogogle" />
+                        <input type="button" value="Continue with Facebook" />
                     </div>
 
                     <div class="input_container">
-                        <input type="button" value="Continue with Apple" />
+                        <input type="button" value="Continue with Google" />
                     </div>
                     
                     <div class="input_container">
